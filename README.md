@@ -1,8 +1,17 @@
-# React + Vite
+Project set up:
+1. git clone https://github.com/RRAJ644/Authenticate-Assignment.git
+2. npm install 
+3. npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live link: https://animated-pithivier-69e03a.netlify.app/
 
-Currently, two official plugins are available:
+Login to explore the proejct 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Credentials are according to Fake Store API
+  username: "mor_2314",
+  password: "83r5^_"
+
+
+
+
+
